@@ -1,5 +1,5 @@
 # VanKit
-#### *Managed by: Chloe Madison - @clomads*
+#### *Managed by: Chloe 'Six' Ryan - @clomads / @nonbinarymaker*
 #### *A Project of: Voidbox Industries - @vdbxio*
 *Links to products may be affiliate links - if you contribute, feel free to use your own affiliate links or I will convert them to mine*
 
@@ -33,14 +33,13 @@ If you have an idea or problem and don't know how to use Github.. the best way i
 
 ## Contributors
 
-Chloe Madison is a Non-binary Bay Area artist originally from Detroit Metro. Ze is a compulsive tinkerer and constantly thinks about the experience had when interacting with objects and how to improve it or make it cheaper. Ze is interested in sharing zir knowledge with people, but is absolutely terrified of doing a Youtube channel along with suffering from executive dysfuction. 
-Chloe has an extensive background in filmmaking, graphic design, motion graphics, brand design, front-end dev, and UX design.... along with hella self-taught maker skills. Ze is currently deepdiving into DIY vehichle repairs as zir van is kinda falling apart. If ze/zir/zirs pronouns are hard... she/her/hers is fine, I guess. 
+Chloe 'Six' Ryan is a Non-binary Bay Area artist originally from Detroit Metro. Ze is a compulsive tinkerer and constantly thinks about the experience had when interacting with objects and how to improve it or make it cheaper. Ze is interested in sharing zir knowledge with people, but is absolutely terrified of doing a Youtube channel along with suffering from executive dysfuction. 
+Six has an extensive background in filmmaking, graphic design, motion graphics, brand design, front-end dev, and UX design.... along with self-taught maker skills. Ze is currently deepdiving into DIY vehichle repairs as zir van is kinda falling apart. If ze/zir/zirs pronouns are hard... she/her/hers is fine, I guess. 
 
-You can help zir continue this and other projects by supporting zir on [patreon.com/clomads](http://www.patreon.com/clomads)
+You can help zir continue this and other projects by supporting zir on [patreon.com/nonbinarymaker](http://www.patreon.com/nonbinarymaker)
 
-Voidbox Industries (vdbx.io) is the retail brand of Chloe Madison consisting of a handful of open source projects - mainly hardware and functional art. Voidbox is still in its early stages and hopes to attract other talented open hardware designers and artists to provide a reatil platform that could potentially provide a living for them.
+Voidbox Industries (vdbx.io) is the retail brand of Chloe Madison consisting of a handful of open source projects - mainly hardware and functional art. Voidbox is still in its early stages and hopes to attract other talented open hardware designers and artists to provide a reatil and manufacturing platform that becomes a worker co-op.
 
-Voidbox also needs your support at [patreon.com/vdbxio](http://www.patreon.com/vdbxio)
 
 Your equally riveting backstory here.
 Your patreon URL here.
