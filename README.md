@@ -3,6 +3,7 @@
 #### *A Project of: Voidbox Industries - @vdbxio*
 *Links to products may be affiliate links - if you contribute, feel free to use your own affiliate links or I will convert them to mine*
 
+[VISIT THE WIKI](https://github.com/vdbxio/vankit/wiki)
 
 ## TL;DR
 VanKit (working name) is a collection of knowledge for living in a van with limited means. Its intention is to distill down the best of affordable options to allow for comfortable living in a vehicle of your choosing, likely a van. Not all sections will apply to everyone, but I hope that you can find help and or inspiration to proceed down the path of making a van your home becaue the housing market isn't gonna unfuck itself anytime soon and your landlord is only getting richer. Fuck that guy.
